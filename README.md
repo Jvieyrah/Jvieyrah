@@ -1,8 +1,6 @@
 
 <b> hello, my name is João</b>
 
-<a href="[Link perfil no LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <p>I am a full-stack development student at Trybe and Bachelor in Digital Desing at Anhembi Morumbi with a Master in Production Engineer at Uninter - I am experienced in customer service for Aviation and Insurance industries, being owner of a analytical personality and observing the current changes we currently are going through, I decided to take a productive year to be fully committed to my learning process to become a developer and I'm seeking to gather people with the same purpose as together we go further!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvieyrah&show_icons=true&theme=radical)
@@ -11,6 +9,7 @@ What I've been doing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jvieyrah&repo=trybe-exercicios&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvieyrah)](https://github.com/anuraghazra/github-readme-stats)
+
 Skills I aquired so far
 
 Languages & Scripts:
