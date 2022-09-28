@@ -12,7 +12,7 @@ What I've been doing
 Skills I aquired so far
 
 Frameworks & Library
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white	https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white	https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
 	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
   https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=whitehttps://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
   https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white  
