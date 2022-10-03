@@ -1,5 +1,5 @@
 
-<b> hello, my name is João</b>
+<b> Hello, my name is João!</b>
 
 <p>I am a full-stack development student at Trybe and Bachelor in Digital Desing at Anhembi Morumbi with a Master in Production Engineer at Uninter - I am experienced in customer service for Aviation and Insurance industries, being owner of a analytical personality and observing the current changes we currently are going through, I decided to take a productive year to be fully committed to my learning process to become a developer and I'm seeking to gather people with the same purpose as together we go further!</p>
 
