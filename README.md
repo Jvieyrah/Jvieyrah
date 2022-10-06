@@ -7,7 +7,7 @@
 
 What I've been doing 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jvieyrah&repo=trybe-exercicios&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jvieyrah&repo=trybe-exercicios&theme=radical)](https://github.com/Jvieyrah/trybe-exercicios)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvieyrah&langs_count=8&layout=compact)](https://github.com/Jvieyrah/github-readme-stats)
 
 Skills I aquired so far
