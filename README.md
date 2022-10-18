@@ -4,11 +4,14 @@
 <p>I am a full-stack development student at Trybe and Bachelor in Digital Desing at Anhembi Morumbi with a Master in Production Engineer at Uninter - I am experienced in customer service for Aviation and Insurance industries, being owner of a analytical personality and observing the current changes we currently are going through, I decided to take a productive year to be fully committed to my learning process to become a developer and I'm seeking to gather people with the same purpose as together we go further!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvieyrah&count_private=true&show_icons=true&theme=radical)
+<div>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvieyrah&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
 
 What I've been doing 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jvieyrah&repo=trybe-exercicios&theme=radical)](https://github.com/Jvieyrah/trybe-exercicios)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvieyrah&langs_count=8&layout=compact)](https://github.com/Jvieyrah/github-readme-stats)
 
 Skills I aquired so far
 
