@@ -1,7 +1,24 @@
 
 <b> Hello, my name is João!</b>
 
-<p>I am a full-stack development student at Trybe and Bachelor in Digital Desing at Anhembi Morumbi with a Master in Production Engineer at Uninter - I am experienced in customer service for Aviation and Insurance industries, being owner of a analytical personality and observing the current changes we currently are going through, I decided to take a productive year to be fully committed to my learning process to become a developer and I'm seeking to gather people with the same purpose as together we go further!</p>
+<p>I am a Full-Stack Developer with a passion for continuous learning and growth!</p>
+
+<p>I completed my comprehensive software development training at Trybe, where I dedicated a full year to the exciting realms of software development, firstly in Javascript, but more recently in Python, and now exploring the wonderful (and controversial) world of Java!</p>
+
+<p>My tech path started long before that thought: I hold a Bachelor's in Digital Design from Anhembi Morumbi and a master's in Production Engineering from Uninter, on my journey, I also honed my customer service skills in the Aviation and Insurance industries, where I learned the importance of being attentive and empathetic to people's needs.</p>
+
+<p>With an analytical personality, I've always been fascinated by observing the changes we go through. And after careful consideration, I saw the opportunities unfolding in the tech industry, I was so certain that I had to embrace it that I re-routed my life to becoming a proficient developer!</p>
+
+<p>Over the past 24 months, I've been hands-on with various technologies, including Unix & Bash, Git, Basic JS & DOM, HTML, CSS, JS ES6, Higher Order Functions, and Unit Tests. I've also mastered agile methodologies and essential behavioral skills, knowing the significance of teamwork and adaptability.</p>
+
+<p>In the front-end, I've been building dynamic user interfaces using React, including Components, State and Events, Controlled Components, Lifecycle, and Router. I've also honed my testing skills with RTL and dived into Redux with React and Context API. The power of React Hooks has been a game-changer in my development journey, reaching out to a wider audience I've been assisting with react-native mobile apps for the mass transportation segment.</p>
+
+<p>On the back-end side, I've embraced the magic of Docker and harnessed the potential of NodeJS with Express, crafting robust and efficient APIs. My data persistence skills include working with MySQL / MONGO and deploying applications on Heroku, In addition to that I gained relative experience in authentication and identity confirmation, encryption and data protection, and software architecture of efficient business rules mostly for the credit card payment industries.</p>
+
+<p>After dedicating some time to selection and search algorithms, as well as data scraping processes and hashmaps in Python, now I am on my first steps in Java, to explore the microservices end and solidify my development skills even further.</p>
+
+<p>I'm keen to connect with people who share this passion, let's push boundaries, explore new horizons, and shape a brighter future!</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvieyrah&count_private=true&show_icons=true&theme=radical)
 <div>
